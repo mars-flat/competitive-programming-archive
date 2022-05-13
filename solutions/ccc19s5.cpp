@@ -1,4 +1,4 @@
-// author: MarsFlat
+// author: Shane Chen (MarsFlat)
 // concepts: 2-d BIT
 
 #include <iostream>
